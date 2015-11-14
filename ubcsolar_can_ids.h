@@ -22,6 +22,6 @@
 #define CAN_ID_ZEVA_BMS_CORE_SET_CELL_NUM 18
 
 #define CAN_ID_ZEVA_BMS_BASE 100
-#define CAN_ID_ZEVA_BMS_END 140 //informational purpose only. not used in code
+#define CAN_ID_ZEVA_BMS_END 139 //informational purpose only. not used in code
 
 #endif

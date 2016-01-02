@@ -9,6 +9,8 @@ ID(dec)	SYSTEM	LENGTH	FORMAT
 
 0	brake	1	data[0] = brake status (0=OFF, 1=ON)
 
+1	hazard	1	data[0] = hazard status(0=OFF, 1=ON)
+
 4	motor	3	data[0] = throttle
 			data[1] = regen
 			data[2] = direction (0=FWD, 1=REV)

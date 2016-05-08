@@ -20,7 +20,7 @@ ID(dec)	SYSTEM	LENGTH	FORMAT
 9	signals	1	data[0].0 = left turning signal status (0=OFF, 1=ON)
 			data[0].1 = right turning signal status (0=OFF, 1=ON)
 
-10-18	BMS	8	(see ZEVA BMS datasheet)
+10-20	BMS	8	(see ZEVA BMS datasheet)
 
 100-139	BMS	vary	(see ZEVA BMS datasheet)
 

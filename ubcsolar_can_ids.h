@@ -21,6 +21,8 @@
 #define CAN_ID_ZEVA_BMS_CORE_CONFIG_WR3 16
 #define CAN_ID_ZEVA_BMS_CORE_CONFIG_RD3 17
 #define CAN_ID_ZEVA_BMS_CORE_SET_CELL_NUM 18
+#define CAN_ID_ZEVA_BMS_CORE_ACK_ERROR 19
+#define CAN_ID_ZEVA_BMS_CORE_RESET_SOC 20
 
 #define CAN_ID_ZEVA_BMS_BASE 100
 #define CAN_ID_ZEVA_BMS_END 139 //informational purpose only. not used in code

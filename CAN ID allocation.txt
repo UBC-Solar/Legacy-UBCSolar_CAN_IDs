@@ -24,6 +24,7 @@ ID(dec)	SYSTEM	LENGTH	FORMAT
 
 100-139	BMS	vary	(see ZEVA BMS datasheet)
 
-200	MPPT	4	data[0..3] = current (32bit float)
+200	MPPT Relays	4	data[0] = Relay states. (6 bits)
+201 MPPT Current Sensors 4 data[0..6] = MPPT Current
 
 700	UI	?	undecided
